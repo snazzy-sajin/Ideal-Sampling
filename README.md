@@ -181,18 +181,20 @@ plt.show()
 # Output Waveform
 
 # IDEAL SAMPLING
-<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/c63d715f-dae8-4896-a669-98e04b8ce3c8" />
+<img width="866" height="439" alt="image" src="https://github.com/user-attachments/assets/13e7a5ea-d1db-43d9-af5d-eb7a73ced0fb" />
+<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/f64659ab-5e6e-43e1-ae79-5002e883d5fe" />
+<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/2319e637-fafb-4c69-bc57-cfe3e5850866" />
 
 
 
 
 # NATURAL SAMPLING
-<img width="1390" height="985" alt="image" src="https://github.com/user-attachments/assets/cdfaf68f-3cbf-412e-aa76-c22098e32075" />
+<img width="1390" height="985" alt="image" src="https://github.com/user-attachments/assets/a4b628fd-de72-4bd5-a34a-2cd8077e444a" />
 
 
 # FLAT-TOP SAMPLING
 
-<img width="1398" height="985" alt="image" src="https://github.com/user-attachments/assets/6e9679d9-2a2d-47af-8f21-a73d05937142" />
+<img width="1398" height="985" alt="image" src="https://github.com/user-attachments/assets/dcde848f-07bc-4a78-a6b7-045f26177def" />
 
 
 
